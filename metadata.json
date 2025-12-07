@@ -1,0 +1,5 @@
+{
+  "name": "NanoQuantum Nexus",
+  "description": "A developer portal combining the world's smallest RISC-V CPU (SERV) with serverless Quantum Computing functions (Qiskit). Features interactive command builders, resource visualizations, and AI-assisted documentation.",
+  "requestFramePermissions": []
+}
